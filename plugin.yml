@@ -1,0 +1,10 @@
+# basic info
+name: Factions360
+main: com.gmail.tim98760.factions360.Factions360
+author: Tim
+version: 1.0
+
+commands:
+  F:
+    description: Factions.
+    usage: /f
